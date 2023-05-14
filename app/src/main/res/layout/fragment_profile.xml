@@ -241,7 +241,7 @@
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:id="@+id/my_fotos"
-                    android:src="@drawable/ic_grid"
+                    android:src="@drawable/ic_baseline_pets_24"
                     style="?android:attr/buttonBarButtonStyle"
                     android:layout_height="wrap_content" />
 

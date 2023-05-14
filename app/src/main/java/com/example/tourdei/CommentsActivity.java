@@ -42,7 +42,6 @@ public class CommentsActivity extends AppCompatActivity {
     String publisherid;
     FirebaseUser firebaseUser;
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
