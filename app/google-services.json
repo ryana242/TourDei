@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444572406435",
+    "firebase_url": "https://tourdei-f213f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tourdei-f213f",
+    "storage_bucket": "tourdei-f213f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444572406435:android:d2147069c20e0e350b2516",
+        "android_client_info": {
+          "package_name": "com.example.tourdei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444572406435-jdu1imsm4fj6ar3hqbo0ovpt7l1pduso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8mpRPByJfaXiAM-wQhejTMao7RerNCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444572406435-jdu1imsm4fj6ar3hqbo0ovpt7l1pduso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
