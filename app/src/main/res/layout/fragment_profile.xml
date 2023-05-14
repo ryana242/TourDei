@@ -100,6 +100,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:textColor="@color/green_500"
                                 android:text="posts" />
 
                         </LinearLayout>
@@ -122,7 +123,8 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="followers" />
+                                android:text="followers"
+                                android:textColor="@color/green_500"/>
 
                         </LinearLayout>
 
@@ -144,7 +146,8 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="following" />
+                                android:text="following"
+                                android:textColor="@color/green_500"/>
 
                         </LinearLayout>
 
