@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#F3ACED"
+    android:background="#FFFFFF"
     tools:context=".PostActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -40,7 +40,7 @@
                     android:layout_alignParentRight="true"
                     android:layout_centerVertical="true"
                     android:layout_marginRight="10dp"
-                    android:background="#673AB7"
+                    android:background="#001400"
                     android:text="POST"
                     android:textStyle="bold"
                     android:textColor="@color/white"
@@ -70,7 +70,8 @@
             android:id="@+id/selectimage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Select Photo" />
+            android:text="Select Photo"
+            android:background="@drawable/roundedbutton"/>
 
         <EditText
             android:id="@+id/description"

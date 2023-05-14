@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="#F3ACED"
+    android:background="#FFFFFF"
     tools:context=".Fragment.ProfileFragment">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -241,7 +241,7 @@
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:id="@+id/my_fotos"
-                    android:src="@drawable/ic_baseline_pets_24"
+                    android:src="@drawable/ic_grid"
                     style="?android:attr/buttonBarButtonStyle"
                     android:layout_height="wrap_content" />
 
