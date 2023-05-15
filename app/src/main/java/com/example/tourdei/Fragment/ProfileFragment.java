@@ -166,7 +166,7 @@ public class ProfileFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 AlertDialog.Builder builder=new AlertDialog.Builder(getContext());
-                builder.setMessage("You really want to leave these cuties?")
+                builder.setMessage("Are you sure you want to logout?")
                         .setCancelable(false).setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
@@ -197,7 +197,7 @@ public class ProfileFragment extends Fragment {
                 }
                 else {
                     AlertDialog.Builder builder=new AlertDialog.Builder(getContext());
-                    builder.setMessage("SORRY! User Is Not Available For Pet Sitting.")
+                    builder.setMessage("SORRY! User Is Not Available For Contact.")
                             .setCancelable(false).setPositiveButton("UNDERSTOOD", new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialogInterface, int i) {
